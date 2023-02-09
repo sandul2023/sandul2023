@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Hello IJSE
-Go to IJSE Page [](https://ijse.lk/)
+Go to IJSE Page [IJSE Page](https://ijse.lk/).
 <!--
 **sandul2023/sandul2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
