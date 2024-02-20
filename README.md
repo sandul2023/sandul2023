@@ -1,10 +1,12 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Tharin Sandul</h1>
 <h3 align="center">A passionate front-end developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWYzZnN5YmRvYXdwdjM3eWhibTR3NjgzMHVmazE0dDNodm1saGx1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandul2023&label=Profile%20views&color=0e75b6&style=flat" alt="sandul2023" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandul2023&label=Profile%20views&color=0e75b6&style=flat" alt="sandul2023" /> </p>
+<p align="center" alt="Coding" width="400">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWYzZnN5YmRvYXdwdjM3eWhibTR3NjgzMHVmazE0dDNodm1saGx1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandul2023" alt="sandul2023" /></a> </p>
 
